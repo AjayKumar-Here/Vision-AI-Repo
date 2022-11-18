@@ -36,7 +36,7 @@
   <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/tree/main/assets/ps1.PNG" alt="screenshot" />
 </div>
 <div align="center"> 
-  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/blob/main/assets/ps3.PNG" alt="screenshot" />
+  <img src="assets/ps3.PNG" alt="screenshot" />
 </div>
 
 
