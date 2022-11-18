@@ -7,15 +7,20 @@
     <a href="https://ajaykumar-here.github.io/Vision-AI/">Vision-AI Demo</a>
    </h2>
 </div> 
+
+<br />
+
 <!-- Hosting -->
-## :gear: Demo Hosting
+
+ ## :gear: Demo Hosting
 
 
  - Front End  - `Github Pages`
  - Back End - `Heroku`
  - Database - `Heroku PostgreSql`
+ 
+ <br />
 
-<br />
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
