@@ -8,7 +8,8 @@
    </h2>
 </div> 
 <!-- Hosting -->
-### :gear: Demo Hosting
+## :gear: Demo Hosting
+
 
  - Front End  - `Github Pages`
  - Back End - `Heroku`
