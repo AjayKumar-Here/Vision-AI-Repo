@@ -57,7 +57,7 @@
 ### :dart: Features
 
 - Signin And SignUp
-- Face Detection Using Image Url
+- Face Detection Using Clarifai AI
 - Add Image Search Count
 - User Details
 
