@@ -8,8 +8,6 @@
    </h2>
 </div> 
 
-<br />
-
 <!-- Hosting -->
 
  ## :gear: Demo Hosting
