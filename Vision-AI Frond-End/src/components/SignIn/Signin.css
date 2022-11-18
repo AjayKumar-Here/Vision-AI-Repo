@@ -1,0 +1,14 @@
+.btn-input{
+ background: transparent;
+ width: 100%;
+ border: 1px solid;
+ padding :.5rem;
+}
+.btn-input:hover{
+ background-color: black;
+ color: white;
+}
+
+#password{
+  font-weight: bold;
+ }

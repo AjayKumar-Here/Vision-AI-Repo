@@ -1,0 +1,15 @@
+.Tilt {
+  background: #282828; 
+}
+
+.pad{
+  padding: 18px;
+}
+
+.Tilt:hover{
+  background: white;
+}
+
+.Tilt img:hover{
+  filter: brightness(0%);
+}
