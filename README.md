@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/tree/main/assets/vision.PNG" alt="logo" width="200" height="auto" />
+  <img src="assets/vision.PNG" alt="logo" width="200" height="auto" />
   <h1>Vision-AI Project</h1>
    
 <h2>
@@ -33,7 +33,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/tree/main/assets/ps1.PNG" alt="screenshot" />
+  <img src="assets/ps1.PNG" alt="screenshot" />
 </div>
 <div align="center"> 
   <img src="assets/ps3.PNG" alt="screenshot" />
