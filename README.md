@@ -14,8 +14,8 @@
 
 
  - Front End  - `Github Pages`
- - Back End - `Heroku`
- - Database - `Heroku PostgreSql`
+ - Back End - `Vercel`
+ - Database - `Render PostgreSql`
  
  <br />
 
