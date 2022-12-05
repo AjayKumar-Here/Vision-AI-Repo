@@ -14,7 +14,7 @@
 
 
  - Front End  - `Github Pages`
- - Back End - `Vercel`
+ - Back End -  `Vercel`
  - Database - `Render PostgreSql`
  
  <br />
